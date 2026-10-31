@@ -30,6 +30,7 @@
   "engines": {
     "node": ">=12"
   },
+  "packageManager":"pnpm@9.15.0",
   "keywords": [
     "酷狗音乐",
     "酷狗",
